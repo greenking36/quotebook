@@ -1,1 +1,4 @@
 ask adami inletir
+
+dert adami syletir:wq!
+
